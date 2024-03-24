@@ -41,7 +41,6 @@
 ![5f213b6de73aa46339ad8123595fc898-43](https://github.com/gogiri/AvocadoProject/assets/139231430/3ab4455a-960a-4f9c-8ab3-cac806f21d59)
 ![5f213b6de73aa46339ad8123595fc898-44](https://github.com/gogiri/AvocadoProject/assets/139231430/2f3e1480-ed3d-4592-a5be-347f8ae13c14)
 ![5f213b6de73aa46339ad8123595fc898-45](https://github.com/gogiri/AvocadoProject/assets/139231430/62cc8a3e-0071-49c4-8cf3-4bb737e5d5ff)
-![5f213b6de73aa46339ad8123595fc898-46](https://github.com/gogiri/AvocadoProject/assets/139231430/9d847f00-a550-4876-995b-13afc425046c)
 
 1. 주제선정배경
 - 최근 미국 주식 투자에 대한 관심도가 증가하고 있다. 하지만 미국과 한국과의 시차 특성상 새벽에 열리는 미국시장에 적극적으로 투자하기 어렵다.
